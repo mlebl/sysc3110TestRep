@@ -13,6 +13,10 @@ public class AddressBook {
 	
 	public static void main (String[] args){
 		System.out.println("Address Book");
+		BuddyInfo buddy1 = new BuddyInfo();
+		AddressBook addressbook = new AddressBook();
+		addressbook.addBuddy(buddy1);
+		addressbook.removeBuddy(buddy1);
 		
 	}
 	

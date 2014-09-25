@@ -23,9 +23,7 @@ public class AddressBook {
 		//OnSiteEdit - PullTest
 		addressbook.addBuddy(buddy1);
 		addressbook.removeBuddy(buddy1);
-		//TESTBRANCH
-		addressbook.addBuddy(buddy1);
-		addressbook.removeBuddy(buddy1);
+		
 		
 	}
 	

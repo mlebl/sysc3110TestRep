@@ -20,6 +20,9 @@ public class AddressBook {
 		//RevisionTest
 		addressbook.addBuddy(buddy1);
 		addressbook.removeBuddy(buddy1);
+		//OnSiteEdit - PullTest
+		addressbook.addBuddy(buddy1);
+		addressbook.removeBuddy(buddy1);
 		
 	}
 	

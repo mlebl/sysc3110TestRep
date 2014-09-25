@@ -17,6 +17,9 @@ public class AddressBook {
 		AddressBook addressbook = new AddressBook();
 		addressbook.addBuddy(buddy1);
 		addressbook.removeBuddy(buddy1);
+		//RevisionTest
+		addressbook.addBuddy(buddy1);
+		addressbook.removeBuddy(buddy1);
 		
 	}
 	
